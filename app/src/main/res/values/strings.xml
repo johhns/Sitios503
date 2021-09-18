@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sitios503</string>
+    <string name="titulo">Sitios del Salvador</string>
+    <string name="title_activity_mis_sitios">MisSitios</string>
+</resources>
